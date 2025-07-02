@@ -1,3 +1,4 @@
+uma calculadora Científica 
   
 Funções:
  Soma, subtração, multiplicação, divisão
